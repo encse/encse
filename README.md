@@ -2,4 +2,4 @@ I'm into retro programming, CTFs, a fan of pixelart and everything computer rela
 
 📫 You can contact me at [linkedin](https://www.linkedin.com/in/ncsdavid/) for more serious business or [twitter](https://twitter.com/encse) because why not.
 
- 🪐 My homepage is at [csokavar.hu](https://csokavar.hu/about), be my guest in my arcade gaming room for a quick pacman round, and check out `finger @csokavar.hu` for the latest info.
+ 🪐 My homepage is at [csokavar.hu](https://csokavar.hu/about), be my guest in my arcade gaming room for a quick pac-man round, and check out `finger @csokavar.hu` for the latest info.
