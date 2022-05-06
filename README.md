@@ -5,4 +5,4 @@ in my portfolio here.
 
 📫 You can contact me at [LinkedIn](https://www.linkedin.com/in/ncsdavid/) for more serious business or [twitter](https://twitter.com/encse) for fun.
 
- 🪐 My homepage is [csokavar.hu](https://csokavar.hu/about). The arcade is always open for a quick round of pac-man. You can also `finger @csokavar.hu` for the latest news.
+🏠 My homepage is [csokavar.hu](https://csokavar.hu/about). The arcade is always open for a quick round of pac-man. You can also `finger @csokavar.hu` for the latest news.
