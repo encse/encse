@@ -8,6 +8,6 @@ in my portfolio here.
 📫 Contact me at [LinkedIn](https://www.linkedin.com/in/ncsdavid/) for more 
 serious business or [Twitter](https://twitter.com/encse) for fun stuff.
 
-🏠  The arcade is always open for a quick round of pac-man at my homepage
+🏠  The arcade is always open for a quick round of pac-man at
  [csokavar.hu](https://csokavar.hu/about). You can 
 also `finger @csokavar.hu` for the latest news.
