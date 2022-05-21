@@ -5,7 +5,7 @@ some old school [mandelbrot drawers](https://mandelbrot.csokavar.hu)
 or - from my childhood -  a [Rubik's cube solver](https://rubik.csokavar.hu)
 in my portfolio here.
 
-🏠  The arcade is always open for a quick round of pac-man at
+🏠  The arcade is always open for a quick round of Pac-Man at
  [csokavar.hu](https://csokavar.hu/about). You can 
 also `finger @csokavar.hu` for the latest news.
 
