@@ -7,7 +7,7 @@ in my portfolio here.
 
 🏠  The arcade is always open for a quick round of Pac-Man at
  [csokavar.hu](https://csokavar.hu/about). You can 
-also `finger @csokavar.hu` for the latest news. Heck even my 
+also `finger @csokavar.hu` for the latest news. Heck, even the 
 [404 page](https://404.csokavar.hu) is a text adventure.
 
 📫 Contact me at [LinkedIn](https://www.linkedin.com/in/ncsdavid/) for 
