@@ -1,8 +1,8 @@
 I'm into retro programming, CTFs, a fan of pixel art 
 and everything computer related that was build before 2000.
- I have a [nes emulator](https://nes.csokavar.hu), 
+ I have [a nes emulator](https://nes.csokavar.hu), 
 some old school [mandelbrot drawers](https://mandelbrot.csokavar.hu) 
-or - from my childhood -  a [Rubik's cube solver](https://rubik.csokavar.hu)
+or [a Rubik's cube solver](https://rubik.csokavar.hu) from my childhood
 in my portfolio here.
 
 🏠  The arcade is always open for a quick round of Pac-Man at
