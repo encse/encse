@@ -1,4 +1,6 @@
-🦉 Welcome to my recreational lair stranger. I'm into retro programming, 
+Welcome to my recreational lair stranger. 
+
+I'm into retro programming, 
 CTFs, a fan of pixel art 
 and everything computer related that was build before 2000.
  I have [a nes emulator](https://nes.csokavar.hu), 
