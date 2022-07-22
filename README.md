@@ -1,4 +1,5 @@
-I'm into retro programming, CTFs, a fan of pixel art 
+Welcome to my recreational lair. I'm into retro programming, 
+CTFs, a fan of pixel art 
 and everything computer related that was build before 2000.
  I have [a nes emulator](https://nes.csokavar.hu), 
 some old school [mandelbrot drawers](https://mandelbrot.csokavar.hu) 
